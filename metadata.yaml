@@ -1,0 +1,33 @@
+_repo: '---_23823'
+_version: 0.1.0
+alternative_title: Di Zi Gui
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, Yuxiu, active 17th century-18th century
+    aliases:
+    - 李毓秀
+    - Li, Ziqian
+    - Li, Yü-hsiu
+    - Li, Yu-hsiu
+    gutenberg_agent_id: '26057'
+    url: http://www.gutenberg.org/2009/agents/26057
+description: ''
+gutenberg_issued: '2007-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23823'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese poetry -- Qing dynasty, 1644-1912'
+- !lcc 'BJ'
+- !lcc 'PL'
+- !lcsh 'Conduct of life'
+- !lcsh 'Confucianism'
+title: 弟子規
+url: http://www.gutenberg.org/ebooks/23823
